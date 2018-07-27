@@ -1,3 +1,6 @@
+"""
+ This Program will do the Merge Sort using recursive Way
+"""
 def mergeSort(data):
     print("Splitting ",data)
     if len(data)>1 :
