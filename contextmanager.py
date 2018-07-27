@@ -3,6 +3,7 @@ from contextlib import contextmanager
 
 
 #ContextManager example1
+#this is modified file of the context manager
 @contextmanager
 def open_file(destination,mode):
     try:
